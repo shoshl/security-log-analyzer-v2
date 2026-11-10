@@ -1,0 +1,9 @@
+[2026-11-11 00:30:00] خطورة: High | الهجوم: Brute Force Attack | الآيب: 192.168.88.217 | البورت: 22
+[2026-11-11 00:30:01] خطورة: High | الهجوم: Brute Force Attack | الآيب: 192.168.139.101 | البورت: 22
+[2026-11-11 00:33:20] خطورة: Critical | الهجوم: SQL Injection Attempt | الآيب: 192.168.177.1 | البورت: 80
+[Real Incident] 192.168.1.50 - - [11/Nov/2026:10:00:05] "POST /login.php HTTP/1.1" 401 Unauthorized
+[Real Incident] 192.168.1.99 - - [11/Nov/2026:10:00:10] "GET /admin?id=1' OR '1'='1 HTTP/1.1" 500 SQL Injection
+[Real Incident] 192.168.1.50 - - [11/Nov/2026:10:00:05] "POST /login.php HTTP/1.1" 401 Unauthorized
+[Real Incident] 192.168.1.99 - - [11/Nov/2026:10:00:10] "GET /admin?id=1' OR '1'='1 HTTP/1.1" 500 SQL Injection
+[Real Incident] 192.168.1.50 - - [11/Nov/2026:10:00:05] "POST /login.php HTTP/1.1" 401 Unauthorized
+[Real Incident] 192.168.1.99 - - [11/Nov/2026:10:00:10] "GET /admin?id=1' OR '1'='1 HTTP/1.1" 500 SQL Injection
